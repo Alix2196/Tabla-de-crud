@@ -7,9 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    
-    <h1>Holi mundito &#128526;</h1>
-
-
+    <p>desde footer</p>
 </body>
 </html>
